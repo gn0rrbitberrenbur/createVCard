@@ -1,0 +1,2 @@
+# Create a vCard that contains your information
+Just run the `main.py`, enter the information you want to have in your vcard, select a path where you want the image to be saved and hit the "create" button.
